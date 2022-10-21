@@ -1,7 +1,7 @@
 # Weather App
 
 ## Overview of weather app
-This project is created using ReactJS library.
+Weather App shows user the current temperature in fahrenheit. It also shows the user the humidity, feels like temperature and wind speed.This project is created using ReactJS library. 
 The purpose of this project was to learn and get familiar with ReactJS and Hooks in ReactJS.
 
 
