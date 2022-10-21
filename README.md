@@ -8,6 +8,7 @@ The purpose of this project was to learn and get familiar with ReactJS and Hooks
 Live Demo : [https://ganeshardlkar.github.io/my-weather-app/]
 
 ![](src/images/delhi-weather.JPG)
+![](src/images/mumbai-weather.JPG)
 
 ## API used
 Open weather API [https://api.openweathermap.org]
