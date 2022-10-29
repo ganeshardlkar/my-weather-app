@@ -5,7 +5,7 @@ Weather App shows user the current temperature in fahrenheit. It also shows the 
 The purpose of this project was to learn and get familiar with ReactJS and Hooks in ReactJS.
 
 
-Live Demo : [https://ganeshardlkar.github.io/my-weather-app/]
+Live Demo : [https://my-weather-app-2022.herokuapp.com/]
 
 ![](src/images/delhi-weather.JPG)
 ![](src/images/mumbai-weather.JPG)
